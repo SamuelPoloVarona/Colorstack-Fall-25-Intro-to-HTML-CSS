@@ -115,3 +115,8 @@ Let's begin!
       justify-content: (can only be used along w display)
       align-items: (can only be used along w display)
       border-radius: (rounding or sharpening borders)
+
+## Resources / Examples
+[W3 Schools](https://www.w3schools.com/Html/html_intro.asp)
+[Pop Culture Recipes](https://jason-b-jiang.github.io/Recipes-Website/)
+[Globetrotter Example](https://globetrotter-final.onrender.com/gallery.html)
