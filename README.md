@@ -117,7 +117,7 @@ Let's begin!
       border-radius: (rounding or sharpening borders)
 
 ## Resources / Examples
-[W3 Schools](https://www.w3schools.com/Html/html_intro.asp)
-[Flexbox Froggy](https://flexboxfroggy.com/)
-[Pop Culture Recipes](https://jason-b-jiang.github.io/Recipes-Website/)
-[Globetrotter Example](https://globetrotter-final.onrender.com/gallery.html)
+- [W3 Schools](https://www.w3schools.com/Html/html_intro.asp)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [Example: Pop Culture Recipes](https://jason-b-jiang.github.io/Recipes-Website/)
+- [Example: Globetrotter](https://globetrotter-final.onrender.com/gallery.html)
